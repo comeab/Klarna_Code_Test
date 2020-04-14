@@ -19,6 +19,7 @@ I am following the Google JavaScript Style Guide from https://google.github.io/s
 
 
 2. Assignment Two 
+Identify duplicates from transaction list. All transactions by the same source account to the same destiny account, category, and amount with a time difference of less than 1 minute should be identified and grouped.
 
 # Logic of the algorithm
 
